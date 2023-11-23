@@ -2,6 +2,8 @@
 
 O **React Product Explorer** é um projeto em React desenvolvido para explorar informações detalhadas de produtos por meio de interações de clique. Ele consome uma API que verifica os cliques nos botões de produtos e adiciona um parâmetro à URL da API para recuperar os detalhes específicos do produto. Além disso, o último produto clicado é armazenado no Local Storage, permitindo que a informação persista mesmo após o recarregamento da página.
 
+URL: https://react-clickable-products.vercel.app/
+
 ## Funcionalidades
 
 - **Exploração Dinâmica:** Clique nos botões dos produtos para visualizar detalhes específicos na tela.
